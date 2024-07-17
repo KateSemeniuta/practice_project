@@ -1,2 +1,1 @@
 # practice_project
-Hi
